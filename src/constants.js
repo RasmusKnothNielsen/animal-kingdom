@@ -16,6 +16,12 @@ export const ANIMALS = [
     id: 'lion',
     name: 'Lion',
     superpower: 'Roaring loudly.'
+  },
+  {
+     id: 'fish',
+     name: 'Fish',
+     superpower: 'Breathing under water.'
+
   }]
 
 export const TERRITORIES = [
@@ -28,6 +34,11 @@ export const TERRITORIES = [
     id: 'tundra',
     name: 'Tundra',
     superpower: 'Let it snow!'
+  },
+  {
+     id: 'atlantis',
+     name: 'Atlantis',
+     superpower: 'Swim with Poseidon!'
   }
 ]
 
@@ -44,6 +55,10 @@ export const OTHER_KINGDOMS = [
     {
        "app": "http://localhost:3001",
        "ruler": "larz.id"
+    },
+    {
+       "app": "https://animalkingdoms.netlify.com",
+       "ruler": "meepers.id.blockstack"
     },
     {
        "app": "https://decentralised-islands.netlify.com",

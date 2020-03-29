@@ -1,5 +1,7 @@
 # Animal Kingdom Sample app
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b5bcc618-337d-4a70-98f7-2c2c363e70ea/deploy-status)](https://app.netlify.com/sites/xenodochial-mahavira-8bbd9d/deploys)
+
 This sample app allows a user to create their own animal kingdom. They create their own
 animal persona and then populate their kingdom with rulers or subjects of other kingdoms
 either on the same app or on other forks of this app.
